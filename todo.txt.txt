@@ -1,0 +1,8 @@
+what can do: 
+	core functionality:
+		get input path -> generate seperate graph for x, y, z 
+	draw path on canvas -> show graph on canvas
+	show interpolation between discrete points
+	have recording mechanism, like playing with a doll
+resource: 
+	have the test interpolation working
